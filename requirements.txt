@@ -1,5 +1,4 @@
 tensorflow
-tensorflow-datasets
 pandas
 scikit-learn
 numpy
