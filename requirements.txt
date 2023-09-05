@@ -2,7 +2,4 @@ tensorflow
 pandas
 scikit-learn
 numpy
-jax
-flax
-jaxopt
-optax
+tqdm
