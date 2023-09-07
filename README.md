@@ -12,5 +12,5 @@ After installing Python 3.8+, install the required libraries:
 pip install -r requirements.txt
 ```
 
-Then you may need to install jupyter-lab, once that is done run `jupyter lab` and open `Federated Regression.ipynb`, you can run
+Then you may need to install jupyterlab, once that is done run `jupyter lab` and open `Federated Regression.ipynb`, you can run
 through the code with the play button at the top or beside code cells.
